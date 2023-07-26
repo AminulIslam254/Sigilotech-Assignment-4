@@ -94,7 +94,7 @@ const CountryList = (props) => {
                 <div style={{ height: 100, width: "85%", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
 
                     <div style={{ height: 30, width: "30%" }}>
-                        <Input onChange={handleSearch} style={{ height: "100%", width: "100%",  color: props.myTheme['text'] }} placeholder="Search for a country" />
+                        <Input onChange={handleSearch} style={{ height: "100%", width: "100%",   }} placeholder="Search for a country" />
                     </div>
                     <div>
                         <Select
