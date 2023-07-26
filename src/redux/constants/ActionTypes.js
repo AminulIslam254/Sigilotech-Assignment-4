@@ -1,0 +1,5 @@
+export const ActionTypes={
+    SET_DETAILS_TRIGGERED : "SET_DETAILS_TRIGGERED",
+    DISPLAYED_FLAG_ID : "DISPLAYED_FLAG_ID",
+    
+}
